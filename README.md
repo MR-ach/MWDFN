@@ -1,6 +1,6 @@
 ##MWDFN
 
-Code accompanying the paper "Fault diagnosis of rotating machinery under multi-level class imbalance conditions based on multi-scale wavelet decomposition and feature fusion" 
+Code accompanying the paper "Multi-scale wavelet decomposition and feature fusion for rotating machinery fault diagnosis under multi-level class imbalance" 
 by Zhen Guo(Ready to be submitted for publication).
 
 ##Requirements
